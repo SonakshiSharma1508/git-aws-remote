@@ -1,2 +1,4 @@
 This is my first git file
 Adding second line to test Git.
+modify the changes 
+This line is added in features2 branch.
